@@ -1,5 +1,6 @@
 <template>
-    <div class="pageone"><h1>hello this pageone</h1></div>
+    <div class="pageone"><h1>hello this pageone</h1>
+    <P>TEST</P></div>
 
 </template>
 <script>
